@@ -6,7 +6,7 @@ A high-performance, visually stunning personal portfolio built with React.js, Vi
 <img width="1899" height="912" alt="image" src="https://github.com/user-attachments/assets/ffbf4eda-5d7b-443f-83a0-b9d7865cd5da" />
 
 
-**🛠️ Tech Stack**
+** Tech Stack**
 
 Framework: React.js (Vite)
 
@@ -18,7 +18,7 @@ Routing & Scroll: React Scroll
 
 Icons: Iconify
 
-**🌟 Key Features**
+** Key Features**
 
 Extreme Performance: Optimized for speed, achieving near-perfect Lighthouse scores.
 
@@ -30,7 +30,7 @@ Project Showcase: A dynamic "Works" section featuring 6 diverse projects, from S
 
 Modern Navigation: Custom-built overlay Navbar with scroll-triggered visibility.
 
-**⚡Performance Optimization**
+** Performance Optimization**
 
  I focused heavily on the "Critical Rendering Path" to ensure the best user experience:
 
@@ -40,7 +40,7 @@ Modern Navigation: Custom-built overlay Navbar with scroll-triggered visibility.
 
  Zero Layout Shift: Carefully managed GSAP animations to prevent CLS.
 
-**🚀 Getting Started**
+** Getting Started**
 
     Clone the repository:
 
@@ -59,10 +59,10 @@ Modern Navigation: Custom-built overlay Navbar with scroll-triggered visibility.
     Bash
     npm run build
     
-📨 Contact Me
+ Contact Me
 
 Email: mohamedxfawzi@gmail.com
 
-LinkedIn: Mohamed Fawzi
+[LinkedIn](www.linkedin.com/in/mohamedxfawzi)
 
 ⭐️ If you find this project helpful, don't forget to give it a star!
