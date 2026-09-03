@@ -158,10 +158,10 @@ export const projects = [
   },
 ];
 export const socials = [
-  { name: "Instagram", href: "https://www.instagram.com/mohamedxfawzei/" },
-  { name: "LinkedIn", href: "https://www.linkedin.com/in/mohamed--fawzei" },
+  { name: "Instagram", href: "https://www.instagram.com/mohamedxfawzi/" },
+  { name: "LinkedIn", href: "https://www.linkedin.com/in/mohamedxfawzi" },
 
-  { name: "GitHub", href: "https://github.com/MohamedxFawzei" },
+  { name: "GitHub", href: "https://github.com/MohamedxFawzi" },
   {
     name: "CV",
     href: "https://drive.google.com/file/d/1hw6E0jkHLOGlIgpJDdNAKB7_TZXO_urs/view?usp=sharing",
